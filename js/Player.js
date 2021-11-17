@@ -3,6 +3,7 @@ class Player {
         this.index = null;
         this.positionX = 0;        
         this.positionY = 0;
+                this.state = "water";
         this.name = null;
         this.rank = null;
     }
